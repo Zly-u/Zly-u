@@ -1,6 +1,6 @@
 # Henlo, I rarely do things in here.
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://twitter.com/lvl374">
   <img width=775 src="https://github.com/Zly-u/Zly-u/blob/main/THE_CORRECT_ONE.gif" />
 </a>
 
